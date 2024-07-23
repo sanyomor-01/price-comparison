@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" rx="24" fill="#CECFDB"/>
+<path d="M10 10V23.25M10 36.5V23.25M10 23.25L21 10M10 23.25L21.5 36.5" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M21.5 10C22.3 10 24.1667 10 25 10" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M25.5 10V23H31.75M38 10V23H31.75M31.75 23V36.5" stroke="black" stroke-width="4" stroke-linecap="round"/>
+<path d="M21.5 36.5C25.4592 40.3079 31.5 36.5 31.5 36.5" stroke="black" stroke-width="4" stroke-linecap="round"/>
+</svg>
