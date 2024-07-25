@@ -2,9 +2,9 @@
 export default function Health() {
 
     return(
-        <div className="px-5 pt-6  bg-white rounded-sm max-w-[746px] h-[318px] mt-8 ml-8">
+        <div className="flyout-content px-5 pt-6  bg-white rounded-sm w-[470px] h-[300px] mt-8 ml-8">
             <div className="wrapper flex flex-col">
-                <a className= "mb-3.5" href="">Health & Beauty</a>
+                <a className= "mb-3.5 text-lg font-medium capitalize hover:text-blue-700" href="">Health & Beauty</a>
                 <div className="flex gap-4">
                     <div className="phones flex flex-col w-[33%] capitalize">
                         <ul className="flex flex-col gap-3 text-sm">

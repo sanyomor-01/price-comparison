@@ -1,6 +1,6 @@
 export default function  ComputerContent() {
     return (
-        <div  className="w-[746px] h-[390px] p-5 rounded bg-gray-300  flex flex-col gap-4 relative mt-2 ml-[139px]">
+        <div  className="w-fit h-[390px] p-5 rounded bg-gray-300  flex flex-col gap-4 relative mt-2 ml-[139px]">
                 <h1 className=" font-generalsans font-medium text-lg capitalize">Computer & Accessories</h1>
 
             <div className="col-1 flex  justify-between items-start">
