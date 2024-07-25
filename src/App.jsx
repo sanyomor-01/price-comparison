@@ -1,5 +1,7 @@
 import Nav from "./components/Nav"
-import Navbar from "./components/Navbar"
+import Categories from "./components/Categories"
+
+
 
 
 
@@ -7,7 +9,8 @@ export default function App() {
   return (
     <main className="relative ">
       <Nav/>
-      <Navbar/>
+      <Categories/>
+
     </main>
   )
 }
