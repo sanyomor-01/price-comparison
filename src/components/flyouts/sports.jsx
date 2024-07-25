@@ -4,7 +4,7 @@ export default function Health() {
     return(
         <div className=" flyoutcontent px-5 pt-6  bg-white rounded-sm w-[470px] h-[300px] mt-8 ml-8">
             <div className="wrapper flex flex-col">
-                <a className= "mb-3.5 text-lg font-medium capitalize hover:text-blue-700" href="">sports & outdoors</a>
+                <a className= "mb-3.5 text-base font-medium capitalize hover:text-blue-700" href="">sports & outdoors</a>
                 <div className="flex gap-4">
                     <div className="kitchen flex flex-col w-[33%] capitalize">
                         <ul className="flex flex-col gap-3 text-sm">

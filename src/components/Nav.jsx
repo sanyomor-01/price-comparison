@@ -17,7 +17,7 @@ const Nav = () => {
                 <div className="search px-4 py-3 flex justify-between rounded bg-white items-center w-[620px]">
                     <div className='flex gap-4'>
                         <img className='w-6' src={search} alt="search" />
-                        <input   className="w-[266px] px-2 my-1  placeholder:text-sm placeholder:text-[#014F97]  border-0 outline-none" type="search"  placeholder="Search for Hardware, Phones, Beauty products..."/>
+                        <input   className="w-[266px] px-2 my-1  placeholder:text-sm placeholder:text-[#014F97]  border-0 outline-none" type="search"  placeholder="Search for Hardware, Phones..."/>
                     </div>
                     <img className='w-6' src={slash} alt="" />
                 </div>
